@@ -1,0 +1,14 @@
+{
+  "name": "Shifumix",
+  "short_name": "Shifumix",
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "icons": [{
+    "src": "assets/img/logo_carre.png",
+    "sizes": "256x256",
+    "type": "image/png"
+  }],
+  "background_color": "#ffffff",
+  "theme_color": "#e37a00"
+
+}
