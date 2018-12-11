@@ -1,0 +1,164 @@
+.money {
+    display:inline-block;
+    width: 25px;
+    padding :0px;
+    margin-top: 5px;
+}
+
+.money-small {
+    display: inline-block;
+    width: 15px;
+    padding-top:3px;
+    margin: 0px;
+}
+
+.small-money {
+    display: inline-block;
+    width: 15px;
+    margin :2px;
+    padding-top: 3px;
+}
+
+.size-medium {
+    width: 30px;
+}
+
+.size-big {
+    width: 50px;
+}
+
+.size-small {
+    width: 20px;
+}
+
+.public-style {
+    background-color:black;
+    border-color: black;
+    border: 0px none black;
+    padding: 0px;
+    margin: 0px;
+    color: white;
+    font-family: "Calibri Light";
+    font-stretch: condensed;
+}
+
+@font-face {
+    font-family: shifufont;
+    src: url(https://fonts.googleapis.com/css?family=Raleway:300);
+}
+
+/* latin */
+@font-face {
+    font-family: 'Architects Daughter';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Architects Daughter'), local('ArchitectsDaughter'), url(/fonts/ArchitectsDaughter.woff) format('woff');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+
+h1 {
+    text-align: center;
+    font-variant-caps: all-small-caps;
+    font-size: xx-large;
+    margin:15px;
+    color:lightgrey;
+}
+
+h2 {
+    width:100%;
+    text-align: center;
+    font-size: x-large;
+    color:lightgrey;
+}
+
+h3 {
+    width:100%;
+    text-align: center;
+    font-size: xx-large;
+}
+
+
+video#bgvid {
+    position: fixed; right: 0; bottom: 0;
+    min-width: 100%; min-height: 100%;
+    width: auto; height: auto; z-index: -100;
+    background: no-repeat;
+    background-size: cover;
+}
+
+
+
+.fileUpload {
+    position: relative;
+    overflow: hidden;
+    margin: 0px;
+    padding:0px;
+}
+
+.fileUpload input.upload {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+@media (max-width: 600px) {
+  .desktop {
+    display: none;
+  }
+}
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:300');
+
+.avatar-small {
+  width:40px;
+  height: 40px;
+  clip-path: circle(20px at center);
+}
+
+.avatar-small-xx {
+  width:25px;
+  height: 25px;
+  clip-path: circle(10px at center);
+}
+
+.avatar-large {
+  width:50px;
+  height: 50px;
+  clip-path: circle(25px at center);
+}
+
+.avatar-large-xx {
+  width:250px;
+  height: 250px;
+  clip-path: circle(120px at center);
+}
+
+.vignette {
+  display: inline;
+  width:30%;
+  max-height: 200px;
+  margin:5px;
+}
+
+
+.fadein {
+  opacity:1.0;
+  transition: opacity 2s;
+}
+
+.fadeout {
+  opacity:0.0;
+  transition: opacity 2s;
+}
+
+.image-photo {
+  box-shadow: 3px 3px 5px #aaa;
+  margin: 5px;
+  border: 1px #bfbec4 solid;
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" contentscripttype="text/ecmascript" zoomAndPan="magnify" contentstyletype="text/css" id="svg8" sodipodi:docname="test.svg" version="1.2" preserveAspectRatio="xMinYMin" inkscape:version="0.92.2 (5c3e80d, 2017-08-06)" viewBox="0 0 296.99998 210.00001" xml:id="svg8">
+  <defs xml:id="defs2" id="defs2"></defs>
+  <sodipodi:namedview bordercolor="#666666" inkscape:window-height="1057" inkscape:zoom="0.7" id="base" inkscape:current-layer="layer1" inkscape:window-y="-8" inkscape:cy="458.24116" inkscape:window-x="-8" inkscape:cx="616.24196" showgrid="false" inkscape:pageopacity="0.0" inkscape:document-units="px" units="px" inkscape:pageshadow="2" inkscape:window-width="1920" inkscape:window-maximized="1" borderopacity="1.0" pagecolor="#ffffff" xml:id="base"></sodipodi:namedview>
+  <metadata xml:id="metadata5" id="metadata5">
+    <rdf:rdf>
+      <cc:work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+        <dc:title></dc:title>
+      </cc:work>
+    </rdf:rdf>
+  </metadata>
+  <g inkscape:groupmode="layer" id="layer1" xml:id="layer1" inkscape:label="Layer 1">
+    <flowRoot xml:id="event.title" id="event.title" xml:space="preserve"><flowRegion style="fill:#ffdd55" xml:id="flowRegion1368" id="flowRegion1368"><rect x="145.71428" y="108.23397" width="300" style="fill:#ffdd55" id="rect1370" height="200" xml:id="rect1370"></rect></flowRegion><flowPara style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffdd55" xml:id="flowPara1372" id="flowPara1372">Hervé's party</flowPara></flowRoot>  </g>
+</svg>

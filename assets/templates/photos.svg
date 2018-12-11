@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="photos.svg"
+   width="1920"
+   height="1080">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="695.54368"
+     inkscape:cy="-972.71984"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,968.75002)">
+    <g
+       id="photo1"
+       inkscape:label="#g828"
+       transform="matrix(5.4130785,0,0,5.4130785,-88.477724,-1144.4715)">
+      <rect
+         style="opacity:0.7;fill:#4d4d4d;stroke:none;stroke-width:0.09139974;stroke-opacity:1"
+         id="rect825"
+         width="49.170952"
+         height="54.092236"
+         x="25.019144"
+         y="38.842258" />
+      <rect
+         y="37.330357"
+         x="21.544643"
+         height="54.42857"
+         width="51.215763"
+         id="rect815"
+         style="opacity:1;fill:#ececec;stroke:none;stroke-width:0.0935704;stroke-opacity:1" />
+      <rect
+         inkscape:label="#rect817"
+         y="39.381275"
+         x="23.687275"
+         height="44.065891"
+         width="46.867401"
+         id="photo1.picture"
+         style="opacity:1;fill:#333333;stroke:#333333;stroke-width:1.06729186;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         inkscape:label="#text821"
+         transform="scale(0.78320164,1.2768104)"
+         id="photo1.label"
+         y="69.524025"
+         x="30.748808"
+         style="font-style:normal;font-weight:normal;font-size:2.82506633px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07062666"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.07062666"
+           y="69.524025"
+           x="30.748808"
+           id="tspan819"
+           sodipodi:role="line">commentaire</tspan></text>
+    </g>
+    <g
+       transform="matrix(5.3061197,-1.0707535,1.0707535,5.3061197,55.332487,-806.62531)"
+       inkscape:label="#g828"
+       id="photo2">
+      <rect
+         y="38.842258"
+         x="25.019144"
+         height="54.092236"
+         width="49.170952"
+         id="rect830"
+         style="opacity:0.7;fill:#4d4d4d;stroke:none;stroke-width:0.09139974;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#ececec;stroke:none;stroke-width:0.0935704;stroke-opacity:1"
+         id="rect832"
+         width="51.215763"
+         height="54.42857"
+         x="21.544643"
+         y="37.330357" />
+      <rect
+         style="opacity:1;fill:#333333;stroke:#333333;stroke-width:1.06729186;stroke-miterlimit:4;stroke-dasharray:none"
+         id="photo2.picture"
+         width="46.867401"
+         height="44.065891"
+         x="23.687275"
+         y="39.381275"
+         inkscape:label="#rect817" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.82506633px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07062666"
+         x="30.748808"
+         y="69.524025"
+         id="text838"
+         transform="scale(0.78320164,1.2768104)"
+         inkscape:label="#text821"><tspan
+           sodipodi:role="line"
+           id="photo2.label"
+           x="30.748808"
+           y="69.524025"
+           style="stroke-width:0.07062666">commentaire</tspan></text>
+    </g>
+    <g
+       id="photo3"
+       inkscape:label="#g828"
+       transform="matrix(5.295207,1.1234775,-1.1234775,5.295207,440.19367,-1141.6928)">
+      <rect
+         style="opacity:0.7;fill:#4d4d4d;stroke:none;stroke-width:0.09139974;stroke-opacity:1"
+         id="rect842"
+         width="49.170952"
+         height="54.092236"
+         x="25.019144"
+         y="38.842258" />
+      <rect
+         y="37.330357"
+         x="21.544643"
+         height="54.42857"
+         width="51.215763"
+         id="rect844"
+         style="opacity:1;fill:#ececec;stroke:none;stroke-width:0.0935704;stroke-opacity:1" />
+      <rect
+         inkscape:label="#rect817"
+         y="39.381275"
+         x="23.687275"
+         height="44.065891"
+         width="46.867401"
+         id="photo3.picture"
+         style="opacity:1;fill:#333333;stroke:#333333;stroke-width:1.06729186;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         inkscape:label="#text821"
+         transform="scale(0.78320164,1.2768104)"
+         id="text850"
+         y="69.524025"
+         x="30.748808"
+         style="font-style:normal;font-weight:normal;font-size:2.82506633px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07062666"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.07062666"
+           y="69.524025"
+           x="30.748808"
+           id="photo3.label"
+           sodipodi:role="line">commentaire</tspan></text>
+    </g>
+    <g
+       transform="matrix(5.3946454,-0.44634098,0.44634098,5.3946454,-71.492266,-586.09434)"
+       inkscape:label="#g828"
+       id="photo4">
+      <rect
+         y="38.842258"
+         x="25.019144"
+         height="54.092236"
+         width="49.170952"
+         id="rect854"
+         style="opacity:0.7;fill:#4d4d4d;stroke:none;stroke-width:0.09139974;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#ececec;stroke:none;stroke-width:0.0935704;stroke-opacity:1"
+         id="rect856"
+         width="51.215763"
+         height="54.42857"
+         x="21.544643"
+         y="37.330357" />
+      <rect
+         style="opacity:1;fill:#333333;stroke:#333333;stroke-width:1.06729186;stroke-miterlimit:4;stroke-dasharray:none"
+         id="photo4.picture"
+         width="46.867401"
+         height="44.065891"
+         x="23.687275"
+         y="39.381275"
+         inkscape:label="#rect817" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.82506633px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07062666"
+         x="30.748808"
+         y="69.524025"
+         id="text862"
+         transform="scale(0.78320164,1.2768104)"
+         inkscape:label="#text821"><tspan
+           sodipodi:role="line"
+           id="photo4.label"
+           x="30.748808"
+           y="69.524025"
+           style="stroke-width:0.07062666">commentaire</tspan></text>
+    </g>
+    <g
+       id="photo5"
+       inkscape:label="#g828"
+       transform="matrix(5.3322296,0.93206554,-0.93206554,5.3322296,483.55833,-740.09523)">
+      <rect
+         style="opacity:0.7;fill:#4d4d4d;stroke:none;stroke-width:0.09139974;stroke-opacity:1"
+         id="rect866"
+         width="49.170952"
+         height="54.092236"
+         x="25.019144"
+         y="38.842258" />
+      <rect
+         y="37.330357"
+         x="21.544643"
+         height="54.42857"
+         width="51.215763"
+         id="rect868"
+         style="opacity:1;fill:#ececec;stroke:none;stroke-width:0.0935704;stroke-opacity:1" />
+      <rect
+         inkscape:label="#rect817"
+         y="39.381275"
+         x="23.687275"
+         height="44.065891"
+         width="46.867401"
+         id="photo5.picture"
+         style="opacity:1;fill:#333333;stroke:#333333;stroke-width:1.06729186;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         inkscape:label="#text821"
+         transform="scale(0.78320164,1.2768104)"
+         id="text874"
+         y="69.524025"
+         x="30.748808"
+         style="font-style:normal;font-weight:normal;font-size:2.82506633px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07062666"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.07062666"
+           y="69.524025"
+           x="30.748808"
+           id="photo5.label"
+           sodipodi:role="line">commentaire</tspan></text>
+    </g>
+    <g
+       transform="matrix(5.4128484,0.04991165,-0.04991165,5.4128484,239.93329,-418.79934)"
+       inkscape:label="#g828"
+       id="photo6">
+      <rect
+         y="38.842258"
+         x="25.019144"
+         height="54.092236"
+         width="49.170952"
+         id="rect878"
+         style="opacity:0.7;fill:#4d4d4d;stroke:none;stroke-width:0.09139974;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#ececec;stroke:none;stroke-width:0.0935704;stroke-opacity:1"
+         id="rect880"
+         width="51.215763"
+         height="54.42857"
+         x="21.544643"
+         y="37.330357" />
+      <rect
+         style="opacity:1;fill:#333333;stroke:#333333;stroke-width:1.06729186;stroke-miterlimit:4;stroke-dasharray:none"
+         id="photo6.picture"
+         width="46.867401"
+         height="44.065891"
+         x="23.687275"
+         y="39.381275"
+         inkscape:label="#rect817" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.82506633px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07062666"
+         x="30.748808"
+         y="69.524025"
+         id="text886"
+         transform="scale(0.78320164,1.2768104)"
+         inkscape:label="#text821"><tspan
+           sodipodi:role="line"
+           id="photo6.label"
+           x="30.748808"
+           y="69.524025"
+           style="stroke-width:0.07062666">commentaire</tspan></text>
+    </g>
+  </g>
+</svg>

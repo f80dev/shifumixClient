@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="600"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="template_tweet2.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     id="namedview30"
+     showgrid="false"
+     inkscape:zoom="0.74"
+     inkscape:cx="285.8235"
+     inkscape:cy="559.31462"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19" />
+  <defs
+     id="defs23" />
+  <rect
+     fill="none"
+     id="canvas_background"
+     height="402"
+     width="582"
+     y="-1"
+     x="-1" />
+  <image
+     sodipodi:absref="C:\Users\hhoar\IdeaProjects\shifumix\www\tweet2.picture"
+     xlink:href="tweet2.picture"
+     width="135.02203"
+     height="115.68272"
+     id="photo2.picture"
+     x="554.41766"
+     y="385.41595"
+     transform="matrix(0.94440676,-0.32877937,0.27638818,0.96104608,0,0)"
+     style="opacity:0.587;stroke-width:4.00302513;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;stroke:#ffffff" />
+  <image
+     sodipodi:absref="C:\Users\hhoar\IdeaProjects\shifumix\www\tweet3.picture"
+     xlink:href="tweet3.picture"
+     style="opacity:0.587;stroke-width:4.00000097;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;stroke:#ffffff"
+     width="123.8074"
+     height="102.24949"
+     id="photo3.picture"
+     x="687.07123"
+     y="178.52686"
+     transform="matrix(0.97861891,0.20568188,-0.2066426,0.97841649,0,0)" />
+  <text
+     font-style="normal"
+     font-weight="normal"
+     font-size="38.508495px"
+     transform="scale(1.0174092,0.98288869)"
+     id="tweet2.label"
+     y="139.36113"
+     x="17.265032"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;stroke-width:0.96270603;stroke:#b3b3b3;"><tspan
+       font-style="normal"
+       font-weight="normal"
+       font-size="38.508495px"
+       y="139.36113"
+       x="17.265032"
+       id="tspan18"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;stroke-width:0.96270603;stroke:#b3b3b3;">ceci est le tweet2</tspan></text>
+  <text
+     font-style="normal"
+     font-weight="normal"
+     font-size="36.891148px"
+     xml:space="preserve"
+     x="20.789854"
+     y="317.17172"
+     id="tweet3.label"
+     inkscape:label="#text24"
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;stroke:#b3b3b3;stroke-width:0.92227501"><tspan
+       font-style="normal"
+       font-weight="normal"
+       font-size="36.891148px"
+       id="tspan22"
+       x="20.789854"
+       y="317.17172"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;stroke:#b3b3b3;stroke-width:0.92227501">voici le bla bla bla tweet3.label</tspan></text>
+  <image
+     sodipodi:absref="C:\Users\hhoar\IdeaProjects\shifumix\www\tweet1.picture"
+     xlink:href="tweet1.picture"
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:4.00019191;stroke-miterlimit:4;stroke-dasharray:none;opacity:0.587"
+     inkscape:label="photo1.picture"
+     width="132.2444"
+     height="133.82535"
+     id="photo1.picture"
+     x="609.72577"
+     y="86.824043"
+     transform="matrix(0.9947332,-0.10249814,0.08870893,0.99605759,0,0)" />
+  <text
+     font-style="normal"
+     font-weight="normal"
+     font-size="43.63718px"
+     font-family="Arial"
+     text-anchor="start"
+     fill="#f9f9f9"
+     stroke-width="1.090899"
+     transform="scale(0.8894652724266052,1.124271035194397) "
+     xml:space="preserve"
+     x="99.456993"
+     y="249.26292"
+     id="text28" />
+  <image
+     sodipodi:absref="C:\Users\hhoar\IdeaProjects\shifumix\www\tweet4.picture"
+     xlink:href="tweet4.picture"
+     style="opacity:0.587;stroke-width:4.00009513;stroke-miterlimit:4;stroke-dasharray:none;fill:#ffffff;stroke:#ffffff"
+     y="129.23479"
+     x="766.51495"
+     id="photo4.picture"
+     height="133.94948"
+     width="125.75908"
+     transform="matrix(0.9238295,0.38280421,-0.39179633,0.92005197,0,0)" />
+  <text
+     font-style="normal"
+     font-weight="normal"
+     font-size="29.02667px"
+     font-family="Arial"
+     text-anchor="start"
+     fill="#333333"
+     stroke-width="0.725687"
+     xml:space="preserve"
+     x="107.80096"
+     y="48.293484"
+     id="text21"
+     transform="scale(0.9825905561447144,1.017717957496643) "
+     style="fill:#4d4d4d;" />
+  <text
+     font-style="normal"
+     font-weight="normal"
+     font-size="38.508495px"
+     transform="scale(1.0174092,0.98288869)"
+     id="tweet1.from.firstname"
+     y="251.11757"
+     x="138.01073"
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:38.50849533px;font-family:Arial;text-anchor:start;fill:#ffffff;stroke-width:0.96270603;" />
+  <text
+     style="font-style:normal;font-weight:300;font-size:39.9999998px;font-family:Calibri;text-anchor:start;fill:#b3b3b3;stroke-width:0.75966334;-inkscape-font-specification:'Calibri, Light';font-stretch:normal;font-variant:normal;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke:#b3b3b3;"
+     inkscape:label="#text24"
+     id="tweet1.label"
+     y="47.754192"
+     x="19.021139"
+     xml:space="preserve"
+     font-size="36.891148px"
+     font-weight="normal"
+     font-style="normal"
+     transform="scale(0.97846373,1.0220103)"><tspan
+       style="font-style:normal;font-weight:300;font-size:39.9999998px;font-family:Calibri;text-anchor:start;fill:#b3b3b3;stroke-width:0.75966334;-inkscape-font-specification:'Calibri, Light';font-stretch:normal;font-variant:normal;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke:#b3b3b3;"
+       y="47.754192"
+       x="19.021139"
+       id="tspan20"
+       font-size="36.891148px"
+       font-weight="normal"
+       font-style="normal">Bonjour comment allez vous</tspan></text>
+  <text
+     style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;stroke-width:0.58826172;stroke:#b3b3b3;"
+     xml:space="preserve"
+     x="18.020679"
+     y="237.13985"
+     id="text26"
+     transform="scale(1.0635431,0.94025339)"
+     font-size="38.508495px"
+     font-weight="normal"
+     font-style="normal"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;font-family:Calibri;-inkscape-font-specification:'Calibri, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;stroke-width:0.58826172;stroke:#b3b3b3;"
+       id="tspan24"
+       x="18.020679"
+       y="237.13985"
+       font-size="38.508495px"
+       font-weight="normal"
+       font-style="normal">ceci est un tweet</tspan></text>
+</svg>

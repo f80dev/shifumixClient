@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 0 1920 1080"
+   id="svg19"
+   sodipodi:docname="musee.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     id="namedview30"
+     showgrid="false"
+     inkscape:zoom="0.36999999"
+     inkscape:cx="974.47097"
+     inkscape:cy="758.28293"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0" />
+  <defs
+     id="defs23">
+    <linearGradient
+       id="linearGradient7456"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop7454" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter7754"
+       x="-0.0091036512"
+       width="1.0182073"
+       y="-0.026626153"
+       height="1.0532523">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.49218082"
+         id="feGaussianBlur7756" />
+    </filter>
+  </defs>
+  <text
+     font-style="normal"
+     font-weight="normal"
+     font-size="43.63718px"
+     transform="scale(0.88946527,1.124271)"
+     xml:space="preserve"
+     x="99.456993"
+     y="1120.9388"
+     id="text28"
+     style="font-style:normal;font-weight:normal;font-size:43.63718033px;font-family:Arial;text-anchor:start;fill:#f9f9f9;stroke-width:1.09089899" />
+  <text
+     font-style="normal"
+     font-weight="normal"
+     font-size="29.02667px"
+     xml:space="preserve"
+     x="107.80096"
+     y="1011.2322"
+     id="text21"
+     transform="scale(0.98259053,1.0177179)"
+     style="font-style:normal;font-weight:normal;font-size:29.02667046px;font-family:Arial;text-anchor:start;fill:#4d4d4d;stroke-width:0.72568703" />
+  <text
+     font-style="normal"
+     font-weight="normal"
+     font-size="38.508495px"
+     transform="scale(1.0174092,0.98288869)"
+     id="tweet1.from.firstname"
+     y="1248.1786"
+     x="138.01073"
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:38.50849533px;font-family:Arial;text-anchor:start;fill:#ffffff;stroke-width:0.96270603" />
+  <image
+    sodipodi:absref="https://s3.amazonaws.com/media.harvardartmuseums.org/production/uploaded_files/tour_builder/Index-Museum-Speak-Writing-on-the-Wall-01.jpg"
+    y="0"
+    x="0"
+    id="image859"
+    xlink:href="https://s3.amazonaws.com/media.harvardartmuseums.org/production/uploaded_files/tour_builder/Index-Museum-Speak-Writing-on-the-Wall-01.jpg"
+    preserveAspectRatio="none"
+    height="1080"
+    width="1920" />
+  <image
+     style="opacity:1;fill:#000000;stroke:none;stroke-width:0.85135782;stroke-miterlimit:4;stroke-dasharray:none"
+     id="photo1.picture"
+     preserveAspectRatio="none"
+     width="308.22733"
+     height="215.67854"
+     x="238.42278"
+     y="549.85529" />
+  <image
+     y="535.44745"
+     x="829.97845"
+     preserveAspectRatio="none"
+     id="photo2.picture"
+     height="250.51631"
+     width="234.08633"
+     style="opacity:1;fill:#333333;stroke:#333333;stroke-width:0.81520194;stroke-miterlimit:4;stroke-dasharray:none" />
+  <image
+     style="opacity:1;fill:#000000;stroke:none;stroke-width:0.89572966;stroke-miterlimit:4;stroke-dasharray:none"
+     id="photo3.picture"
+     width="343.10834"
+     preserveAspectRatio="none"
+     height="211.87653"
+     x="1371.3904"
+     y="552.04089" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.31562042px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.48289052;filter:url(#filter7754)"
+     x="573.62305"
+     y="305.89096"
+     id="photo1.label"
+     transform="matrix(1.3837713,-0.11148733,0.14643582,1.8175491,-631.60386,461.85927)"><tspan
+       sodipodi:role="line"
+       id="photo1.label_inf"
+       x="573.62305"
+       y="305.89096"
+       style="stroke-width:0.48289052">bla bla bla bla bla bla bla</tspan></text>
+  <text
+     transform="matrix(1.3228882,-0.01472689,0.01934342,1.7375807,23.893683,402.76467)"
+     id="photo2.label"
+     y="305.89096"
+     x="573.62305"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.31562042px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.48289052;filter:url(#filter7754)"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.48289052"
+       y="305.89096"
+       x="573.62305"
+       id="photo2.label_inf"
+       sodipodi:role="line">bla bla bla bla bla bla bla</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.31562042px;line-height:1.25;font-family:'Segoe Print';-inkscape-font-specification:'Segoe Print, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.48289052;filter:url(#filter7754)"
+     x="573.62305"
+     y="305.89096"
+     id="photo3.label"
+     transform="matrix(1.1982312,0.11990873,-0.15749713,1.5738468,774.2827,359.83475)"><tspan
+       sodipodi:role="line"
+       id="photo3.label_inf"
+       x="573.62305"
+       y="305.89096"
+       style="stroke-width:0.48289052">bla bla bla bla bla bla bla</tspan></text>
+</svg>
